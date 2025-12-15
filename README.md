@@ -81,11 +81,11 @@ I am a dedicated **Mobile Application Engineer** specializing in the **Flutter**
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=apronoy&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF00&border_radius=5&count_private=true&line_height=25" alt="GitHub Stats" width="45%" />
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apronoy&theme=dark&hide_border=true&background=1F222E&border_radius=5" alt="GitHub Streak" />
-</div>
 </p>
-  
+  <!-- <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apronoy&theme=dark&hide_border=true&background=1F222E&border_radius=5" alt="GitHub Streak" />
+</div> -->
+
 <div align="center">
   
 <img 
