@@ -67,6 +67,74 @@ I am a dedicated **Mobile Application Engineer** specializing in the **Flutter**
       <sub>VS Code</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=android" width="50" alt="Android" /><br />
+      <sub>Android</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=apple" width="50" alt="iOS" /><br />
+      <sub>iOS</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" /><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++" /><br />
+      <sub>C++</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" /><br />
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Android Studio" /><br />
+      <sub>Android Studio</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" /><br />
+      <sub>HTML</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" /><br />
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" /><br />
+      <sub>Figma</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=rest" width="50" alt="REST API" /><br />
+      <sub>REST API</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=getx" width="50" alt="GetX" /><br />
+      <sub>GetX</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=provider" width="50" alt="Provider" /><br />
+      <sub>Provider</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bloc" width="50" alt="BLoC" /><br />
+      <sub>BLoC</sub>
+    </td>
+    <td align="center" width="120">
+    </td>
+    <td align="center" width="120">
+    </td>
+    <td align="center" width="120">
+    </td>
+    <td align="center" width="120">
+    </td>
+    <td align="center" width="120">
+    </td>
+  </tr>
 </table>
 
 <p align="center">
