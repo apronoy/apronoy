@@ -167,7 +167,7 @@ I am a dedicated **Mobile Application Engineer** specializing in the **Flutter**
   
 ## 📬 Let's Connect
   
-I am always excited to discuss new tech, collaboration opportunities, or Flutter best practices.
+I am always excited to discuss new technology, collaboration opportunities, or Flutter best practices.
   
 * 🌐 **LinkedIn:** Let's connect professionally.
 * 📧 **Email:** Reach out for project inquiries: **apronoy17@gmail.com**
