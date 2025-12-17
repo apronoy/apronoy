@@ -69,8 +69,8 @@ I am a dedicated **Mobile Application Engineer** specializing in the **Flutter**
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=android" width="50" alt="Android" /><br />
-      <sub>Android</sub>
+      <img src="https://skillicons.dev/icons?i=c" width="50" alt="c" /><br />
+      <sub>C</sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=apple" width="50" alt="iOS" /><br />
