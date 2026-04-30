@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me: Flutter Mobile Engineer
+## 👨‍💻 About Me: Flutter App Developer
   
 I am a dedicated **Mobile Application Engineer** specializing in the **Flutter** framework and **Dart** language. I focus on developing robust, high-performance, and pixel-perfect cross-platform applications.
   
