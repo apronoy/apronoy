@@ -5,7 +5,7 @@
   width="100%" 
 />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Professionate+Mobile+App+Engineer+%E2%9C%A8;Building+Custom+Flutter+Apps+%F0%9F%9A%80;Clean+Code+%2B+Great+UX+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Professionate+Mobile+App+Engineer;Building+Custom+Flutter+Apps;Clean+Code+%2B+Great+UX+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
   
 </div>
 
