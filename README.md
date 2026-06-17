@@ -10,14 +10,117 @@
 </div>
 
 ---
+## Hi 👋, I'm Pronoy Sarkar 
+## Flutter Developer | Mobile Application Engineer
 
-## 👨‍💻 About Me: Flutter App Developer
+I build scalable, high-performance, and pixel-perfect mobile applications using **Flutter** and **Dart** .My expertise lies in transforming business requirements into modern, maintainable, and user-friendly mobile solutions.
   
-I am a Professionate **Mobile Application Engineer** specializing in the **Flutter** framework and **Dart** language. I focus on developing robust, high-performance, and pixel-perfect cross-platform applications.
+* ✅ **Core Expertise on :**
+* Flutter & Dart Development
+* Clean Architecture & SOLID Principles
+* State Management: GetX, Provider, Riverpod 
+* REST API Integration, JSON Parsing, and API Testing with Postman
+* Firebase Services: Authentication, Firestore, Cloud Messaging, Analytics, Storage
+* Local Database: Hive, SharedPreferences.
+* Responsive & Adaptive UI Design
+* Custom Animations & Modern UI/UX Implementation
+* Push Notifications & Deep Linking
+* Payment Gateway Integration (Stripe), In-App Purchases (Google play and App store), and Subscription Management with RevenueCat
+* Google Maps & Location-Based Services
+* Google ads monitization
+* Dependency Injection
+* App Performance Optimization
+* Code Refactoring & Maintainable Codebases
+* Git, GitHub & Version Control
+* App Publishing on Google Play Store & Apple App Store
+* Client Communication & Requirement Analysis
+
   
-* ✅ **Expertise:** Deep knowledge of **Clean Architecture**, **State Management** (Getx,Provider,Riverpod), and efficient REST API integration.
-* 🚀 **Current Focus:** Implementing robust Authentication Patterns and optimizing app performance for scale.
-* 💡 **Philosophy:** Turning complex problems into simple, elegant, and maintainable mobile solutions.
+*# 🚀 Featured Projects :
+
+## ✈️ Jet of America
+
+A private aviation booking platform that enables users to reserve private jets or join shared flights to reduce travel costs. The application provides a seamless booking experience with secure payment processing, real-time flight management, scheduling, and worldwide route support.
+
+**Key Features**
+
+* Private Jet Booking
+* Shared Flight Reservations
+* Secure Payment Processing
+* Real-Time Booking Management
+* Flight Scheduling
+* Global Route Support
+* Interactive Maps & Location Services
+
+**Tech Stack:** Flutter • Firebase • REST API • Payment Gateway • Google Maps
+
+---
+
+## 🛒 E-Commerce Application
+
+A full-featured e-commerce solution designed to deliver a modern online shopping experience. The platform includes user authentication, product browsing, cart management, wishlist functionality, order tracking, and secure payment processing.
+
+**Key Features**
+
+* User Authentication
+* Product Catalog & Search
+* Shopping Cart & Wishlist
+* Order Management & Tracking
+* Secure Payments
+
+**Tech Stack:** Flutter • GetX • Firebase • REST API • Payment Gateway
+
+---
+
+## 📍 MyLoc
+
+A location-based application that helps users discover places, track locations, and navigate efficiently. The app integrates advanced mapping and geolocation capabilities to provide accurate real-time location services.
+
+**Key Features**
+
+* Real-Time Location Tracking
+* Route Visualization
+* Nearby Place Discovery
+* Interactive Maps
+* Geolocation Services
+* Location Search & Navigation
+
+**Tech Stack:** Flutter • Google Maps API • Geolocation Services • Firebase • REST API
+
+---
+
+## 💬 Chatter Matters
+
+A modern real-time messaging application built to provide fast and secure communication. The platform supports instant messaging, media sharing, push notifications, and real-time user presence updates.
+
+**Key Features**
+
+* One-to-One Messaging
+* Media & File Sharing
+* Real-Time Message Delivery
+* Online Presence Indicators
+* Push Notifications
+* Secure User Authentication
+
+**Tech Stack:** Flutter • Firebase Authentication • Cloud Firestore • Firebase Cloud Messaging (FCM) • Firebase Realtime Database
+
+---
+
+## 🔐 Authentication & User Management System
+
+A robust authentication and security solution implementing modern authentication practices. The system combines Firebase Authentication with biometric security and PIN-based protection to provide a secure and seamless user experience.
+
+**Key Features**
+
+* Email & Password Authentication
+* Social Login Integration
+* Face ID & Fingerprint Authentication
+* PIN-Based Security
+* Session Management
+* Account Recovery
+* Role-Based Access Control
+
+**Tech Stack:** Flutter • Firebase Authentication • Local Authentication • Secure Storage • GetX • Clean Architecture
   
 ### **Find Me Around the Web:**
   
