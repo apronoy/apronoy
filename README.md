@@ -5,7 +5,7 @@
   width="100%" 
 />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Dedicated+Mobile+Engineer+%E2%9C%A8;Building+Scalable+Flutter+Apps+%F0%9F%9A%80;Clean+Code+%2B+Great+UX+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Dedicated+Mobile+App+Engineer+%E2%9C%A8;Building+Scalable+and+Custom+Flutter+Apps+%F0%9F%9A%80;Clean+Code+%2B+Great+UX+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
   
 </div>
 
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me: Flutter App Developer
   
-I am a dedicated **Mobile Application Engineer** specializing in the **Flutter** framework and **Dart** language. I focus on developing robust, high-performance, and pixel-perfect cross-platform applications.
+I am a Professionate **Mobile Application Engineer** specializing in the **Flutter** framework and **Dart** language. I focus on developing robust, high-performance, and pixel-perfect cross-platform applications.
   
-* ✅ **Expertise:** Deep knowledge of **Clean Architecture**, **State Management** (BLoC/Provider), and efficient REST API integration.
+* ✅ **Expertise:** Deep knowledge of **Clean Architecture**, **State Management** (Getx,Provider,Riverpod), and efficient REST API integration.
 * 🚀 **Current Focus:** Implementing robust Authentication Patterns and optimizing app performance for scale.
 * 💡 **Philosophy:** Turning complex problems into simple, elegant, and maintainable mobile solutions.
   
