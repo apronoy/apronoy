@@ -46,7 +46,7 @@ A private aviation booking platform that enables users to reserve private jets o
 
 * Private Jet Booking
 * Shared Flight Reservations
-* Secure Payment Processing
+* Secure Payment Processing with Stripe
 * Real-Time Booking Management
 * Flight Scheduling
 * Global Route Support
@@ -66,7 +66,7 @@ A full-featured e-commerce solution designed to deliver a modern online shopping
 * Product Catalog & Search
 * Shopping Cart & Wishlist
 * Order Management & Tracking
-* Secure Payments
+* Secure Payments with Stripe
 
 **Tech Stack:** Flutter • GetX • Firebase • REST API • Payment Gateway
 
@@ -101,6 +101,7 @@ A modern real-time messaging application built to provide fast and secure commun
 * Online Presence Indicators
 * Push Notifications
 * Secure User Authentication
+* Unlock Features With Subscription Management Using RevenueCat 
 
 **Tech Stack:** Flutter • Firebase Authentication • Cloud Firestore • Firebase Cloud Messaging (FCM) • Firebase Realtime Database
 
