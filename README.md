@@ -11,7 +11,7 @@
 
 
  Hi 👋, I'm Pronoy Sarkar
-## Flutter Developer | Mobile Application Engineer
+## Flutter App Developer | Mobile Application Engineer
 
 I build scalable, high-performance, and pixel-perfect mobile applications using **Flutter** and **Dart** .My expertise lies in transforming business requirements into modern, maintainable, and user-friendly mobile solutions.
   
